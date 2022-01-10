@@ -79,3 +79,4 @@ fabric.properties
 /.idea/modules.xml
 /.idea/vcs.xml
 /.idea/azure/azureSettings.xml
+/azure/powershell/arm-template-toolkit/
